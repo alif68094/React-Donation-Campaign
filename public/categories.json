@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/xLs5G4T/Food.png",
+      "title": "Meals for Families in Need",
+      "category": "Food",
+      "category_bg_color": "#e74c3c",
+      "card_bg_color": "#f8714726",
+      "text_color": "#F87147",
+      "button_bg_color": "#f8714733",
+      "description": "Help feed hungry families by providing them with nutritious meals and food assistance.",
+      "price": 25.00
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/bgxDqs2/Health.png",
+      "title": "Low-Income Communities",
+      "category": "Health",
+      "category_bg_color": "#0052FF",
+      "card_bg_color": "#0052ff26",
+      "text_color": "#0052FF",
+      "button_bg_color": "#0052ff33",
+      "description": "Support healthcare access in underserved areas by donating essential medical supplies and medicines.",
+      "price": 30.00
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/mRYsWW2/Education.png",
+      "title": "Underprivileged Students",
+      "category": "Education",
+      "category_bg_color": "#ff444a26",
+      "card_bg_color": "#ff444a26",
+      "text_color": "#ff444a",
+      "button_bg_color": "#ff444a33",
+      "description": "Give disadvantaged students the opportunity to access quality education through scholarships.",
+      "price": 40.00
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/0Jxw7tB/Clothing.png",
+      "title": "Clothing for the Homeless",
+      "category": "Clothing",
+      "category_bg_color": "#9b59b6",
+      "card_bg_color": "#79c23f26",
+      "text_color": "#79C23F",
+      "button_bg_color": "#79c23f33",
+      "description": "Provide warm clothing and blankets to homeless individuals during the cold winter months.",
+      "price": 20.00
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/xLs5G4T/Food.png",
+      "title": "Food Pantry Support",
+      "category": "Food",
+      "category_bg_color": "#e74c3c",
+      "card_bg_color": "#f8714726",
+      "text_color": "#F87147",
+      "button_bg_color": "#f8714733",
+      "description": "Ensure that local food pantries are well-stocked to assist families facing food insecurity.",
+      "price": 15.00
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/bgxDqs2/Health.png",
+      "title": "Healthcare for Children",
+      "category": "Health",
+      "category_bg_color": "#f39c12",
+      "card_bg_color": "#0052ff26",
+      "text_color": "#0052FF",
+      "button_bg_color": "#0052ff33",
+      "description": "Support medical care and treatments for children in need of healthcare services.",
+      "price": 35.00
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/mRYsWW2/Education.png",
+      "title": "Educational Tools for Schools",
+      "category": "Education",
+      "category_bg_color": "#ff444a26",
+      "card_bg_color": "#ff444a26",
+      "text_color": "#FF444A",
+      "button_bg_color": "#ff444a33",
+      "description": "Equip schools with books, computers, and educational materials to enhance learning.",
+      "price": 50.00
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/0Jxw7tB/Clothing.png",
+      "title": "Warm Winter Coats",
+      "category": "Clothing",
+      "category_bg_color": "#9b59b6",
+      "card_bg_color": "#79c23f26",
+      "text_color": "#79C23F",
+      "button_bg_color": "#79c23f33",
+      "description": "Provide winter coats to individuals and families in need of warm clothing.",
+      "price": 25.00
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/xLs5G4T/Food.png",
+      "title": "Emergency Food Aid",
+      "category": "Food",
+      "category_bg_color": "#e74c3c",
+      "card_bg_color": "#f8714726",
+      "text_color": "#F87147",
+      "button_bg_color": "#f8714733",
+      "description": "Support emergency food programs to help those affected by natural disasters and crises.",
+      "price": 30.00
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/bgxDqs2/Health.png",
+      "title": "Medical Research Grants",
+      "category": "Health",
+      "category_bg_color": "#f39c12",
+      "card_bg_color": "#0052ff26",
+      "text_color": "#0052FF",
+      "button_bg_color": "#0052ff33",
+      "description": "Fund medical research projects aimed at finding cures and treatments for diseases.",
+      "price": 60.00
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/mRYsWW2/Education.png",
+      "title": "School Supplies for Students",
+      "category": "Education",
+      "category_bg_color": "#ff444a26",
+      "card_bg_color": "#ff444a26",
+      "text_color": "#FF444A",
+      "button_bg_color": "#ff444a33",
+      "description": "Provide essential school supplies to children to support their education journey.",
+      "price": 15.00
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/0Jxw7tB/Clothing.png",
+      "title": "Clothing Vouchers for Families",
+      "category": "Clothing",
+      "category_bg_color": "#9b59b6",
+      "card_bg_color": "#79c23f26",
+      "text_color": "#79C23F",
+      "button_bg_color": "#79c23f33",
+      "description": "Offer clothing vouchers to low-income families so they can purchase clothing for their needs.",
+      "price": 35.00
+    }
+  ]
+  
